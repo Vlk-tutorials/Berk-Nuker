@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?color=6d00c1&label-style=flat-square" </a>
+<img src="https://img.shields.io/github/languages/top/TT-Tutorials/BERK-Nuker?color=6d00c1&label-style=flat-square" </a>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/v1.0.0/BERK-Nuker.zip">Fast Download</a> ㅤ•ㅤ
+<a href="https://github.com/TT-Tutorials/BERK-Nuker/releases/download/v1.0.0/BERK-Nuker.zip">Fast Download</a> ㅤ•ㅤ
 <a href="https://discord.gg/F5eFWm2puM">Discord</a> ㅤ•ㅤ
 <a href="https://www.youtube.com/watch?v=nVkysvMVk-M">Setup Tutorial Video</a>
 </p>
@@ -19,7 +19,7 @@
 </p>
 <p align="center">
 PREMIUM VERSION:
-<a href="https://gangnuker.org/">WEBSITE</a>
+<a href="https://BERKnuker.org/">WEBSITE</a>
 </p>
  
 ---
@@ -42,29 +42,29 @@ PREMIUM VERSION:
 - [x] - **Might Have Some Bugs**
 - [x] - **Python Provided**
 
-> **WARNING:** Many people have been selling/distributing of GANG-Nuker!
+> **WARNING:** Many people have been selling/distributing of BERK-Nuker!
 
-> **DO NOT** Installing GANG-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
+> **DO NOT** Installing BERK-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
 ## Installation
 
 #### Source Code Version (More complicated but less buggy)
 ```sh-session
-Download GANG-Nuker.zip
+Download BERK-Nuker.zip
 Extract File
-Tap "Install.bat" in GANG Folder
-Once All The Modules Have Been Installed GANG will Auto Launch!
+Tap "Install.bat" in BERK Folder
+Once All The Modules Have Been Installed BERK will Auto Launch!
 Enjoy!
 
-NOTE: When Opening GANG-Nuker Just Tap "start.bat" to Open Everytime!
+NOTE: When Opening BERK-Nuker Just Tap "start.bat" to Open Everytime!
 NOTE: Make sure you have Python 3.9+ and Added to Path.
 ```
 
 #### Compiled Version (Easier but more buggy)
 ```sh-session
-Download: https://github.com/TT-Tutorials/GANG-Nuker/releases
+Download: https://github.com/TT-Tutorials/BERK-Nuker/releases
 Extract File
-Download the latest release (GANG-Nuker.zip) and Extract The Executable
+Download the latest release (BERK-Nuker.zip) and Extract The Executable
 Launch Program and Enjoy!
 ```
 
