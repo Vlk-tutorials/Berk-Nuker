@@ -8,9 +8,9 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/v1.0.0/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
-<a href="https://discord.gg/F5eFWm2puM">Discord</a> ㅤ•ㅤ
-<a href="https://www.youtube.com/watch?v=nVkysvMVk-M">Setup Tutorial Video</a>
+<a href="https://github.com/Vlk-tutorials/Berk-Nuker.git">Fast Download</a> ㅤ•ㅤ
+<a href="[https://discord.gg/F5eFWm2puM](https://discord.gg/3HvmaUxRv9)">Discord</a> ㅤ•ㅤ
+<a href="https://discord.gg/3HvmaUxRv9">Setup Tutorial Video</a>
 </p>
 </p>
 <p align="center">
@@ -19,12 +19,12 @@
 </p>
 <p align="center">
 PREMIUM VERSION:
-<a href="https://gangnuker.org/">WEBSITE</a>
+<a href="https://discord.gg/3HvmaUxRv9">WEBSITE</a>
 </p>
  
 ---
-![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
-![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
+![image](https://cdn.discordapp.com/attachments/1121914464619483197/1123254008925143192/image.png)
+![image](https://cdn.discordapp.com/attachments/1121914464619483197/1123253961080721469/image.png)
 
 
 <p align="center"> 
