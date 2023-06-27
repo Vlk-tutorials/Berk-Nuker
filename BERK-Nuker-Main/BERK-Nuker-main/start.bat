@@ -1,1 +1,0 @@
-python BERK.py 
