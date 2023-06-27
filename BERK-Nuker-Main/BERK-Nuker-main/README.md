@@ -23,8 +23,8 @@ PREMIUM VERSION:
 </p>
  
 ---
-![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
-![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
+![image](https://cdn.discordapp.com/attachments/1121914464619483197/1121919756023377940/image.png)
+
 
 
 <p align="center"> 
