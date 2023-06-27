@@ -27,11 +27,7 @@ PREMIUM VERSION:
 ![image](https://cdn.discordapp.com/attachments/1121914464619483197/1123253961080721469/image.png)
 
 
-<p align="center"> 
-  <kbd>
-<img src="https://media.discordapp.net/attachments/1105062508781387786/1113971492435267614/image.png?width=1330&height=662"></img>
-  </kbd>
-</p>
+
 
 ### Settings:
 - [x] - **Windows 10 / 11**
