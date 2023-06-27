@@ -8,7 +8,7 @@
  
 </p>
 <p align="center">
-<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/v1.0.0/GANG-Nuker.zip">Fast Download</a> ㅤ•ㅤ
+<a href="https://github.com/TT-Tutorials/GANG-Nuker/releases/download/v1.0.0/BERK-Nuker.zip">Fast Download</a> ㅤ•ㅤ
 <a href="https://discord.gg/F5eFWm2puM">Discord</a> ㅤ•ㅤ
 <a href="https://www.youtube.com/watch?v=nVkysvMVk-M">Setup Tutorial Video</a>
 </p>
@@ -23,13 +23,13 @@ PREMIUM VERSION:
 </p>
  
 ---
-![image](https://user-images.githubusercontent.com/94531396/171850124-c9800302-5bbc-4032-9509-a51e56228374.png)
-![image](https://user-images.githubusercontent.com/94531396/171852766-688a51b4-957f-44a3-978b-c036c52a01bb.png)
+![image](https://cdn.discordapp.com/attachments/1121914464619483197/1123202947682156544/image.png)
+![image](https://cdn.discordapp.com/attachments/1121914464619483197/1123203004972154890/image.png)
 
 
 <p align="center"> 
   <kbd>
-<img src="https://media.discordapp.net/attachments/1105062508781387786/1113971492435267614/image.png?width=1330&height=662"></img>
+<img src=""></img>
   </kbd>
 </p>
 
