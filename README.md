@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://img.shields.io/github/languages/top/TT-Tutorials/berk-Nuker?color=6d00c1&label-style=flat-square" </a>
-</p>
+
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=QqLqglDPNCE">TOKEN GENERATOR SHOWCASE</a>
@@ -58,7 +56,7 @@ NOTE: Make sure you have Python 3.9+ and Added to Path.
 
 #### Compiled Version (Easier but more buggy)
 ```sh-session
-Download: https://github.com/TT-Tutorials/berk-Nuker/releases
+Download: 
 Extract File
 Download the latest release (berk-Nuker.zip) and Extract The Executable
 Launch Program and Enjoy!
