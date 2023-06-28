@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Vlk-tutorials/Berk-Nuker.git">Fast Download</a> ㅤ•ㅤ
-<a href="[https://discord.gg/F5eFWm2puM](https://discord.gg/3HvmaUxRv9)">Discord</a> ㅤ•ㅤ
+<a href="[https://berknuker.odoo.com]"Site</a> ㅤ•ㅤ
 <a href="https://discord.gg/3HvmaUxRv9">Setup Tutorial Video</a>
 </p>
 </p>
@@ -19,7 +19,7 @@
 </p>
 <p align="center">
 PREMIUM VERSION:
-<a href="[https://berknuker.org/](https://discord.gg/3HvmaUxRv9)">WEBSITE</a>
+<a href="[berknuker.odoo.com]">WEBSITE</a>
 </p>
  
 ---
