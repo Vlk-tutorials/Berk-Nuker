@@ -4,3 +4,4 @@ colored==1.4.3
 idna==3.3
 requests==2.27.1
 urllib3==1.26.8
+licensing
